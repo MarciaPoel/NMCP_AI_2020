@@ -18,13 +18,13 @@ Practical requirements for the course:
 
 1. you will need a Google account for accessing colaboratory notebooks
 2. you will need to enroll in the [Perusall](http://www.perusall.com) mirror of this course, using the course code **KNAPEN-RCH83** upon registration
-3. 
+   
 
 # Contact & Office hours
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Neural Models]*** in the subject line to trigger my response as soon as possible.
 
-As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I am forced to divide my time between the two. For you this means that I will hold office hours on ***Mondays (13:00 to 14:00)*** and ***Fridays (11:00 ot 12:00)*** . I will try to be present in room ***MF C577-A*** during these timeslots, but if you really want to make sure I'm there, email me in advance.
+As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I am forced to divide my time between the two. For you this means that I will hold office hours on ***Mondays (11:00 to 12:00)*** and ***Fridays (11:00 ot 12:00)*** . These office hours will take place on Zoom: [Neural Models Office Hours Zoom Meeting](https://us02web.zoom.us/j/84681767459). The password for this meeting will be given on Canvas. 
 
 # 1. Lectures
 
@@ -42,29 +42,37 @@ The practicals are hosted on the [course GitHub repo](https://github.com/tknapen
 
 ### Getting started with Python
 
-Some coding in python will be required to fully answer the questions and complete the assignments (but as most of you are AI students and the others have just completed a programming course you'll all be fine). [A starting guide notebook](https://canvas.vu.nl/files/1759934/download?wrap=1) has been created for you that want to practice your relevant coding skills (make sure to download the required files from the **Files** section). *This notebook will not be graded, but serves as a preparation to the course.* Those of you who have taken brain imaging earlier, will recognize the material and can skip it.
+Some coding in python will be required to fully answer the questions and complete the assignments (but as most of you are AI students and the others have just completed a programming course you'll all be fine). has been created for you that want to practice your relevant coding skills (make sure to download the required files from the GitHub repo too). *This notebook will not be graded, but serves as a preparation to the course.* Those of you who have taken brain imaging earlier, will recognize the material and can skip it.
+
+- "Practice" Python Practical [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen/NMCP_AI_2020/blob/main/practicals/python_tutorial.ipynb)
 
 ### Assignments
 
 There will be 3 assignments, and you will have 2 weeks to finish each.
 
+1. Practical 1: SDT and decision-making models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen/NMCP_AI_2020/blob/main/practicals/practical_1.ipynb)
+2. Practical 2: Q-learning model for reinforcement learning behavior, and the basics of Maximum Likelihood Estimation (MLE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen/NMCP_AI_2020/blob/main/practicals/practical_2.ipynb)
+3. Practical 3: Backpropagation, Perceptrons, and modelling of attention [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tknapen/NMCP_AI_2020/blob/main/practicals/practical_3.ipynb)
+
+You will have to submit these assignments on Canvas, and will have 2 weeks time for all assignments.
+
 #### Some points on the practicals:
 
 - Exercises must be completed and submitted individually.
-- You should use the notebook format to make your answers readable.
+- You should use the notebook's markdown formatting effectively to make your answers readable. 
 - Bonus questions are bonus questions for a reason - skip them on your first pass.
 
-# 3. Discussions based on BrainInspired podcasts
+# 3. Presentations based on BrainInspired podcasts
 
 The field of Computational Cognitive Neuroscience is very young, meaning that the definitive guide to this field hasn't been written. Instead, one of the most interesting aggregations of information and viewpoints on this new field is in the format of a podcast: the [braininspired.co](http://braininspired.co) podcast. In this podcast, Paul Middlebrooks, who used to be an active researcher himself, interviews the biggest AI and neuroscientists in the field. What's nice about this format, is that these top-notch scientists explain the ins and outs of their respective fields in a very colloquial manner, which can give you, as a student, a gentle intro into a given subfield of computational cognitive neuroscience. In our course, we will use these podcast episodes as a starting point for our discussions and reading.
 
 ### The Format for Discussions
 
-First, you will get together to decide on the specific podcast episode that you will cover. You can listen to a couple beforehand to get an idea and form an opinion on which you'd like to present about. After you have decided what to cover as a group, listen to the podcast episode, and make notes of the things that you find hard to understand, or concepts that were new to you. Look these topics up (Google/Wikipedia), and go through the shownotes (and specifically the literature referenced therein), which may clarify things (a lot!). It may help to focus on one of the shownote articles for focus. Then, listen to the podcast again, with your added knowledge.
+First, you will decide on the specific podcast episode that you will cover. You can listen to a couple beforehand to get an idea and form an opinion on which you'd like to present about. After you have decided which podcast to cover, listen to the podcast episode, and make notes of the things that you find hard to understand, or concepts that were new to you. Look these topics up (Google/Wikipedia), and go through the shownotes (and specifically the literature referenced therein), which may clarify things (a lot!). It may help to focus on one of the shownote articles for focus. Then, listen to the podcast again, with your added knowledge.
 
 **Important:** If, after going through both the podcast and the shownotes things are still unclear, you can always ask me for clarification [via email](mailto:tknapen@gmail.com) - remember to put ***[Neural Models]*** in the subject line!
 
-After you have all listened to the podcast and read the supporting literature, it's time to get together as a group and create a presentation to be held in class, as fuel for dicussions. It's a good idea to keep to the following structure for the presentation, and create slides for each of these points:
+After you have listened to the podcast and read the supporting literature, it's time to create a presentation. Each of you will be required to create a 6-minute recording of your presentation, and upload this on canvas. It's a good idea to keep to the following structure for the presentation, and create slides for each of these points:
 
 1. Who is the interviewee and what is their field?
 2. What is the work that prompted the interview?
@@ -78,7 +86,7 @@ The first slide of the presentation needs to list your names and student numbers
 
 ### Grading of Discussion format
 
-Grades will be based on the intellectual content of the joint presentation, and its delivery (75%). Another 25% of your grade will be based on your participation in discussions based on other students' presentations.
+Grades will be based on the intellectual content of the joint presentation, and its delivery. You will be asked to review 5 other presentations, and grade them according to the rubric listed on Canvas.  
 
 ### List of podcast episodes to choose from
 
