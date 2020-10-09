@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 278 143.3" style="enable-background:new 0 0 278 143.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#9F9C9D;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#9F9C9D;stroke-miterlimit:10;stroke-dasharray:4.1738,4.1738;}
+	.st3{fill:#EE1F37;stroke:#E71E29;stroke-miterlimit:10;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:12px;}
+	.st6{fill:url(#SVGID_1_);}
+</style>
+<g id="Layer_1">
+	<line class="st0" x1="23.8" y1="13.3" x2="23.8" y2="110.9"/>
+	<g>
+		<g>
+			<line class="st1" x1="73.8" y1="33.7" x2="73.8" y2="35.7"/>
+			<line class="st2" x1="73.8" y1="39.9" x2="73.8" y2="112.9"/>
+			<line class="st1" x1="73.8" y1="115" x2="73.8" y2="117"/>
+		</g>
+	</g>
+	<line class="st0" x1="28.7" y1="117.2" x2="255.5" y2="116.3"/>
+	<line class="st3" x1="30.9" y1="38.9" x2="259.5" y2="38"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 15.9937 98.4731)" class="st4 st5">Evidence</text>
+	<text transform="matrix(1 0 0 1 123.3743 128.8634)" class="st4 st5">Time</text>
+	<text transform="matrix(1 0 0 1 62.8931 9.0398)"><tspan x="0" y="0" class="st4 st5">T=0:</tspan><tspan x="-10.9" y="11" class="st4 st5">Stimulus</tspan><tspan x="-9.1" y="22" class="st4 st5">appears</tspan></text>
+	<text transform="matrix(1 0 0 1 173.2243 33.6877)" class="st4 st5">Threshold: Bound</text>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="70.8899" y1="77.5813" x2="255.532" y2="77.5813" gradientTransform="matrix(-1 0 0 1 329.303 0)">
+		<stop  offset="0" style="stop-color:#2484C6"/>
+		<stop  offset="1" style="stop-color:#2484C6;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st6" points="73.8,115 258.4,115 258.4,40.1 73.8,40.1 	"/>
+	<text transform="matrix(1 0 0 1 134.9312 77.5815)"><tspan x="0" y="0" class="st4 st5">Integration of Evidence</tspan><tspan x="19.1" y="11" class="st4 st5">Towards Bound</tspan></text>
+	<g>
+		<g>
+			<line class="st0" x1="114.1" y1="133.6" x2="157.9" y2="133.6"/>
+			<g>
+				<path d="M156.1,133.6L154,130l0.1-0.1l5.9,2.3c2,0.5,4.1,0.9,6.1,1.4c-2,0.5-4.1,0.9-6.1,1.4l-5.9,2.3l-0.1-0.1L156.1,133.6z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
