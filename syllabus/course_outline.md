@@ -6,28 +6,28 @@ The interplay between artificial intelligence and cognitive neuroscience is a yo
 - How do they map onto behavior and brain activity?
 - For what aspects of cognition do we have good models, and what others are lacking?
 
-Although the field is a theoretical one, the course focuses much more on concepts than on mathematics. My aim is to give you basic insights into how models are made and what model-based science is, and then progress onto what the state of the art is in the field.
+Although the field is a theoretical one, the course focuses much more on concepts than on mathematics. My aim is to give you basic insights into how models are made and what model-based (neuro)science is, and then progress onto what the state of the art is in the field.
 
 # Outline of the course
 
-This course will feature lectures, practicals and discussions. Grading will be based on a final exam (33.3%), the practical assignments (33.3%), and participation in literature reading (16.6%) and podcast presentation (16.6%).
+This course will feature ***lectures, practicals, literature review, and presentations***. Grading will be based on a final exam (33.3%), the practical assignments (33.3%), and participation in literature reading (16.6%) and podcast presentation (16.6%). Note that these percentages and the course content have been upgraded to be lockdown-proof, so they will be different from the original course summary on vunet. 
 
 You can find the schedule for the course on [rooster.vu.nl](http://rooster.vu.nl).
 
 Practical requirements for the course: 
 
-1. you will need a Google account for accessing colaboratory notebooks
+1. you will need a Google account for accessing collaboratory notebooks
 2. you will need to enroll in the [Perusall](http://www.perusall.com) mirror of this course, using the course code **KNAPEN-RCH83** upon registration
    
 # Contact & Office hours
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Neural Models]*** in the subject line to trigger my response as soon as possible.
 
-As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I am forced to divide my time between the two. For you this means that I will hold office hours on ***Mondays (11:00 to 12:00)*** and ***Fridays (11:00 ot 12:00)*** . These office hours will take place on Zoom: [Neural Models Office Hours Zoom Meeting](https://us02web.zoom.us/j/84681767459). The password for this meeting will be given on Canvas. 
+As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I divide my time between the two. For you this means that I will hold office hours on ***Mondays (11:00 to 12:00)*** and ***Fridays (11:00 ot 12:00)*** . These office hours will take place on Zoom: [Neural Models Office Hours Zoom Meeting](https://us02web.zoom.us/j/84681767459). The password for this meeting will be given on Canvas. 
 
 # 1. Lectures
 
-There will be one two-hour lecture per week, one for each of seven weeks. The lectures will not be recorded, but pdfs of the lectures will appear on canvas immediately *after* the lecture.
+There will be two two-hour lecture per week at the start of the course, and less by the end. During these first weeks I'll cover all the basics, after which the course focuses more on your own input. I'm aiming to give the lectures live via Zoom, but I'm expecting a son to be born on the date of the exam, which means that later on lectures may be recorded (and you can sleep in on Mondays and Fridays!). Recordings will be placed on Canvas after the lecture (for the Zoom ones), or whenever they are finished (for the pre-recorded ones).
 
 The lectures will introduce the material that will provide the basis of the practicals. We will start with the why of modeling, and work our way up from basic modeling of behavioral processes to more complicated neural models.
 
