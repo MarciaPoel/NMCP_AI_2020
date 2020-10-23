@@ -28,7 +28,7 @@ Grades will be based on the intellectual content of the joint presentation, and 
 
 ## List of podcast episodes to choose from
 
-The set of podcast episodes below has been preselected to relate to the material in the course, and provide indications as to the overlap between AI and Cognitive Neuroscience. Talk about state of the art course material!
+The set of podcast episodes below has been preselected to relate to the material in the course, and provide indications as to the overlap between AI and Cognitive Neuroscience. Talk about state of the art course material! If I've missed one that you'd prefer to talk about, let me know!
 
 - [BI 046 David Poeppel: From Sounds to Meanings](https://braininspired.co/podcast/46/)
 - [BI 044 Talia Konkle: Turning Vision On Its Side](https://braininspired.co/podcast/44/)
