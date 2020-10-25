@@ -51,3 +51,8 @@ The set of podcast episodes below has been preselected to relate to the material
 - [BI 018 Dean Buonomano: Time in Brains and AI](https://braininspired.co/podcast/18/)
 - [BI 011 Grace Lindsay: Visual Attention in CNNs](https://braininspired.co/podcast/11/)
 - [BI 009 Blake Richards: Deep Learning in the Brain](https://braininspired.co/podcast/9/)
+
+## Tell me which podcast episode you want to present!
+
+Once you've decided which podcast you want to present, fill it in at the following [Google Form](https://forms.gle/bzvUWAJQWmuNmBMx7)
+This will allow me to spread you out over the different podcast episodes and make sure that you are doing something unique. 
