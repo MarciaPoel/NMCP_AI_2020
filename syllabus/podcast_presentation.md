@@ -30,6 +30,12 @@ Grades will be based on the intellectual content of the joint presentation, and 
 
 The set of podcast episodes below has been preselected to relate to the material in the course, and provide indications as to the overlap between AI and Cognitive Neuroscience. Talk about state of the art course material! If I've missed one that you'd prefer to talk about, let me know!
 
+- [BI 083 György Buszáki & David Poeppel](https://braininspired.co/podcast/83/)
+- [BI 075 Jim DiCarlo: Reverse Engineering Vision](https://braininspired.co/podcast/75/)
+- [BI 057 Nicole Rust: Visual Memory and Novelty](https://braininspired.co/podcast/57/)
+- [BI 055 Thomas Naselaris: Seeing Versus Imagining](https://braininspired.co/podcast/55/)
+- [BI 052 Andrew Saxe: Deep Learning Theory](https://braininspired.co/podcast/52/)
+- [BI 048 Liz Spelke: What Makes Us Special?](https://braininspired.co/podcast/48/)
 - [BI 046 David Poeppel: From Sounds to Meanings](https://braininspired.co/podcast/46/)
 - [BI 044 Talia Konkle: Turning Vision On Its Side](https://braininspired.co/podcast/44/)
 - [BI 043 Anna Schapiro: Learning in Hippocampus and Cortex](https://braininspired.co/podcast/43/)
