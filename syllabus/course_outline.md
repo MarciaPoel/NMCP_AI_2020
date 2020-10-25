@@ -1,4 +1,4 @@
-## Intro
+# Intro
 
 The interplay between artificial intelligence and cognitive neuroscience is a young and promising field. It has recently developed its own conference: [Computational Cognitive Neuroscience](https://ccneuro.org/). The goal of this course is to give you an introduction to this field. You will learn to answer questions like these:
 
