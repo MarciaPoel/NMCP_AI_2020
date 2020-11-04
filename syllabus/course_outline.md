@@ -44,7 +44,7 @@ Practical requirements for the course:
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Neural Models]*** in the subject line to trigger my response as soon as possible.
 
-As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I divide my time between the two. For you this means that I will hold office hours on ***Mondays (11:00 to 12:00)*** and ***Fridays (11:00 ot 12:00)*** . These office hours will take place on Zoom: [Neural Models Office Hours Zoom Meeting](https://us02web.zoom.us/j/84681767459). The password for this meeting will be given on Canvas. 
+As I work both at the VU and [Spinoza Centre (KNAW)](http://www.spinozacentre.nl) I divide my time between the two. For you this means that I will hold office hours on ***Mondays (11:00 to 12:00)*** and ***Fridays (11:00 to 12:00)*** . These office hours will take place on Zoom: [Neural Models Office Hours Zoom Meeting](https://us02web.zoom.us/j/84681767459). The password for this meeting will be given on Canvas. 
 
 # 1. Lectures
 
