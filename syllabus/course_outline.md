@@ -18,7 +18,28 @@ Practical requirements for the course:
 
 1. you will need a Google account for accessing collaboratory notebooks
 2. you will need to enroll in the [Perusall](http://www.perusall.com) mirror of this course, using the course code **KNAPEN-RCH83** upon registration
-   
+
+# Schedule of student deadlines for the course
+
+| Month       | Date     | Type     | Exact Assignment
+| :------------- | :----------: | :-----------: | -----------: |
+|  November | 3   | Perusall |  CCN intro paper |
+|           | 6   | Perusall |  Neuroscience Needs Behavior |
+|           | 10  | Perusall |  Deep Reinforcement Learning |
+|           | 13  | Perusall |  Can a neuroscientist Understand a Microprocessor? |
+|           | 15  | Practical |  SDT & DDM |
+|           | 19   | Perusall |  TBD |
+|           | 19   | Podcast Choice Deadline | Podcast Designation |
+|           | 22  | Perusall |  TBD |
+|           | 25  | Perusall |  TBD |
+|           | 29  | Practical |  Reinforcement Learning Behavioral Modelling |
+|  December | 2   | Perusall |  TBD |
+|           | 6  | Perusall | TBD |
+|           | 7  | Podcast Presentation Upload | Your choice of podcast |
+|           | 9  | Perusall | TBD |
+|           | 13  | Practical | Gradient Descent |
+|           | 13  | Exam |  |
+
 # Contact & Office hours
 
 I can be contacted through email [tknapen@gmail.com](mailto:tknapen@gmail.com), but be sure to put ***[Neural Models]*** in the subject line to trigger my response as soon as possible.
