@@ -28,12 +28,12 @@ Practical requirements for the course:
 |           | 10  | *Perusall* |  Deep Reinforcement Learning |
 |           | 13  | *Perusall* |  Can a neuroscientist Understand a Microprocessor? |
 |           | 15  | **Practical** |  SDT & DDM |
-|           | 19   | *Perusall* |  TBD |
+|           | 19   | *Perusall* |  Backpropagation and the brain |
 |           | 19   | Podcast Choice Deadline | Podcast Designation |
-|           | 22  | *Perusall* |  TBD |
-|           | 25  | *Perusall* |  TBD |
+|           | 22  | *Perusall* |  Evolving Optimal Stimuli |
+|           | 25  | *Perusall* |  What Is a Cognitive Map? |
 |           | 29  | **Practical** |  Reinforcement Learning Behavioral Modelling |
-|  **December** | 2   | *Perusall* |  TBD |
+|  **December** | 2   | *Perusall* |  Building Machines that Learn and Think like People |
 |           | 6  | *Perusall* | TBD |
 |           | 7  | Podcast Presentation Upload | Your choice of podcast |
 |           | 9  | *Perusall* | TBD |
