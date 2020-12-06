@@ -34,9 +34,8 @@ Practical requirements for the course:
 |           | 25  | *Perusall* |  What Is a Cognitive Map? |
 |           | 29  | **Practical** |  Reinforcement Learning Behavioral Modelling |
 |  **December** | 2   | *Perusall* |  Building Machines that Learn and Think like People |
-|           | 6  | *Perusall* | TBD |
 |           | 7  | Podcast Presentation Upload | Your choice of podcast |
-|           | 9  | *Perusall* | TBD |
+|           | 11  | *Perusall* | Cognitive AI with humanlike common sense |
 |           | 13  | **Practical** | Gradient Descent |
 |           | 13  | **Exam** |  |
 
